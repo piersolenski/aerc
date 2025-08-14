@@ -1,0 +1,85 @@
+# vim: filetype=dosini
+
+# $name Theme for Aerc
+# $description
+# Save as ~/.config/aerc/stylesets/$id
+
+# Base styling
+default.fg=$foam
+default.bg=$base
+
+success.fg=$pine
+error.fg=$love
+warning.fg=$gold
+
+title.bg=$overlay
+title.fg=$iris
+
+header.fg=$iris
+
+spinner.fg=$muted
+
+part_filename.fg=$gold
+part_mimetype.fg=$iris
+
+# Global selection
+*.selected.fg=$base
+*.selected.bg=$rose
+*.selected.bold=true
+
+# Message list
+msglist_default.fg=$foam
+msglist_default.bg=$surface
+msglist_unread.fg=$highlightHigh
+msglist_unread.bold=true
+msglist_read.fg=$muted
+msglist_flagged.fg=$gold
+msglist_flagged.bold=true
+msglist_deleted.bg=$love
+msglist_deleted.fg=$base
+msglist_deleted.bold=true
+msglist_marked.fg=$base
+msglist_marked.bg=$pine
+msglist_marked.bold=true
+
+# Status bar
+statusline_*.bold=true
+statusline_*.fg=$base
+statusline_default.fg=$foam
+statusline_default.bg=$base
+statusline_error.bg=$love
+statusline_success.bg=$pine
+
+# Completion
+completion_default.fg=$foam
+completion_default.bg=$surface
+completion_gutter.bg=$overlay
+completion_description.bg=$overlay
+
+# Scrollbars
+*_pill.fg=$base
+*_pill.bg=$muted
+
+# Border
+border.fg=$base
+border.bg=$base
+
+# Tab
+tab.bg=$base
+tab.selected.fg=$rose
+tab.selected.bg=$base
+tab.selected.bold=true
+
+[viewer]
+url.fg=$iris
+url.underline=true
+header.bold=true
+signature.dim=true
+diff_meta.bold=true
+diff_chunk.fg=$iris
+diff_chunk_func.fg=$iris
+diff_chunk_func.bold=true
+diff_add.fg=$highlightHigh
+diff_del.fg=$love
+quote_*.fg=$subtle
+quote_1.fg=$highlightLow
