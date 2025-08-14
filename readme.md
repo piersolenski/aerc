@@ -23,7 +23,7 @@ styleset-name = rose-pine
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+<img width="2474" height="1584" alt="Inbox" src="https://github.com/user-attachments/assets/5eb4a2df-a98a-4eba-a768-295d12a1e5a9" />
 
 ## Contributing
 
