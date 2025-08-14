@@ -23,7 +23,7 @@ styleset-name = rose-pine
 
 ## Gallery
 
-<img width="2474" height="1584" alt="Inbox" src="https://github.com/user-attachments/assets/5eb4a2df-a98a-4eba-a768-295d12a1e5a9" />
+<img width="2250" height="1360" alt="2025-08-14 at 16 50 19@2x" src="https://github.com/user-attachments/assets/d54d22b0-468c-47ae-b61f-ac517278ef32" />
 
 ## Contributing
 
