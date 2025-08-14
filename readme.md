@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Copy `src/rose-pine` to `~/.config/aerc/stylesets/rose-pine`
+1. Copy `dist/rose-pine` to `~/.config/aerc/stylesets/rose-pine`
 2. Add the following to your `~/.config/aerc/aerc.conf` file:
 
 ```dosini
